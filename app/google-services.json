@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139676057636",
+    "project_id": "tenki-no-ko-303813",
+    "storage_bucket": "tenki-no-ko-303813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139676057636:android:d21c751667c638b86558b1",
+        "android_client_info": {
+          "package_name": "com.lollipop.tekninoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139676057636-7gss5aidp2ed782g02tv58r79h384v2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHiYycucbnQuiin3V9JoqLpbsZ4TXS58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139676057636-7gss5aidp2ed782g02tv58r79h384v2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

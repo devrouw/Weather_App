@@ -1,0 +1,2 @@
+rootProject.name='Tekni no Ko'
+include ':app'
